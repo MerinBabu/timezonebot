@@ -1,0 +1,41 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent: find_time_zone
+- can you tell me the time?
+- could you tell the time to me?
+- what is the time right now?
+- what time is it?
+- i need you to find me a time zone
+- what time zone is it ?
+
+## intent: find_time_zone_for_location
+- what is the time zone of [London](city)?
+- time zone of [Lisbon](city)
+- do you know the time zone of [Berlin](city)
+- i need to know the time zone of [Mumbai](city)
+
+## intent: city_info
+- [London](city)
+- [San Francisco](city)
+- [Toronto](city)
+- [New Delhi](city)
+- [Auckland](city)
+- [Oslo](city)
+
+## intent: thanks
+- thank you
+- thanks
+- great, thanks bud!
+- thank you so much
